@@ -1,0 +1,4 @@
+- O curso é pra quem já sabe programar. É pra quem quer melhorar lacunas. Entrevista técnica do tipo FAANG.
+- Vscode.
+- Explicação da metodologia para fixação.
+- Parte teórica e parte da implementação.
